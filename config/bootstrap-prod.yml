@@ -12,7 +12,7 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/anvar1/insurance/config
+                    uri: https://github.com/anvar1/insurance
                 native:
                     search-locations: file:./central-config
                 prefix: /config
