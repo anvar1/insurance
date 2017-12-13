@@ -12,7 +12,7 @@ jhipster:
     security:
         authentication:
             jwt:
-                secret: tys
+                secret: c9d37cefc48581919939d587c750ea215020765b
 
 # Enable /management/logfile endpoint for all apps
 logging:
